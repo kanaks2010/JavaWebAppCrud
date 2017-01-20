@@ -1,0 +1,26 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "email",
+            "fieldType": "String",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldId": 3,
+            "fieldName": "dateofbirth",
+            "fieldType": "LocalDate"
+        }
+    ],
+    "changelogDate": "20170120094822",
+    "dto": "no",
+    "service": "no",
+    "pagination": "pager"
+}
